@@ -29,10 +29,3 @@ driver.findElement(webdriver.By.id('main-search')).sendKeys(searchString);
 driver.findElement(webdriver.By.id('header-search-icon')).click();
 
 
-//.sendKeys('simple programmer');
-//driver.findElement(webdriver.By.name('btnG')).click();
-
-//.then(function() {driver.sleep(5000)})
-
-//Great Britain 1841 SG8 PL.127 Mint
-
